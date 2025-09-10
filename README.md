@@ -7,7 +7,7 @@ You can use anaconda for this, then you will open the prompt and in the root fol
 - In this project when you run it you will see this website
 
 
-![](C:\Users\Admin\Desktop\webscrapping-python-master\images\initial_website.jpg)
+![](C:\\Users\\Admin\\Desktop\\webscrapping-python-master\\images\\initial_website.jpg)
 
 
 - Then you can type any product to search, for this short sample we wrote "computer" and when I press on find button you will see this results, in this case we show just first 10 results
